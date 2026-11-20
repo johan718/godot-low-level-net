@@ -1,2 +1,2 @@
-# godot-low-level-net
+# Godot Multiplayer Demo
 Godot low level networking api demo.
